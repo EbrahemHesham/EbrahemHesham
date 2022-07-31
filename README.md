@@ -1,6 +1,6 @@
 - ☺ Hi, I’m @EbrahemHesham
 - 👀 I’m interested in AI and machine learning 
-- 👏🏻 I’m currently learning Pythob
+- 👏🏻 I’m currently learning Python
 - 🤝🏻 I’m looking to collaborate on projects
 - 📫 How to reach me https://www.linkedin.com/in/ebrahem-elsherif-6b628321a
 
